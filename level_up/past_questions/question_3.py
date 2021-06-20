@@ -1,4 +1,4 @@
-宝くじ
+#宝くじ
 #https://paiza.jp/works/mondai/skillcheck_archive/lottery
 
 b  = int(input())
